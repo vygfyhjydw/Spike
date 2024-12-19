@@ -15,7 +15,7 @@ install:
 
 script:
   # Run the Python script
-  - chmod +x * && chmod +x SPIKE && python3 SPIKE.py
+  - chmod +x * && chmod +x SPIKE && python3 Spike.py
   
                                
        
